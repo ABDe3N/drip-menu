@@ -23,3 +23,4 @@ Digital menu hosted on GitHub Pages - scan QR code to view.
 ---
 
 **Free hosting, no bullshit, just a menu.**
+# drip-menu
